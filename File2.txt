@@ -1,1 +1,3 @@
 Welcome to git demo.
+
+Changes made by team mate for WI6 on remote master to pull.
