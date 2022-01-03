@@ -1,12 +1,14 @@
 Hello world!!
 
-chane --added to fix  the bug1.
+change :added to fix  the bug1.
+
 
 
 New change to fix bug2.
 
 New change to fix bug2.
+
 git hub
 new line .
-newww
+
 
