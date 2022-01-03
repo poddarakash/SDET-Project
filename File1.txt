@@ -11,4 +11,6 @@ New change to fix bug2.
 git hub
 new line .
 
+stash - half done work.
+
 
